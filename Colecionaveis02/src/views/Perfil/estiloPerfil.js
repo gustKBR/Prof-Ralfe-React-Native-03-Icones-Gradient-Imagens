@@ -7,7 +7,7 @@ const estiloPerfil = StyleSheet.create({
       alignItems: 'center',     
    },
    borda: {   
-      backgroundColor: '#081a31',  
+      backgroundColor: '#9160DB',  
       width: '80%',
       height: '25%',
       borderRadius: 10,
@@ -28,7 +28,7 @@ const estiloPerfil = StyleSheet.create({
       height: 40,
       borderWidth: 2,
       borderColor: '#e8f2e9',
-      backgroundColor: '#14417b',
+      backgroundColor: '#41F27F',
       justifyContent: 'center',
       alignItems: 'center',
    },
